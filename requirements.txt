@@ -25,3 +25,4 @@ PyGithub
 clickhouse_driver
 paramiko
 scp
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
